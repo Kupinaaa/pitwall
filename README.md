@@ -36,7 +36,7 @@ The script will:
 6. Prompt you to place the Kaggle CSV files in `data/` (see below)
 7. Import the data and fetch driver headshots
 
-**Kaggle dataset:** Download "Formula 1 World Championship (1950–2024)" by Rohan Rao from Kaggle and unzip the CSVs into the `data/` folder. The setup script will wait for you to do this before continuing.
+**Kaggle dataset:** Download "Formula 1 World Championship (1950–2024)" by Rohan Rao from Kaggle and unzip the CSVs into a created `data/` folder in the root of the project. The setup script will wait for you to do this before continuing.
 
 After setup, start the dev server:
 ```bash
